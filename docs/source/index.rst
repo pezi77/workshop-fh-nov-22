@@ -12,3 +12,4 @@ Contents
 
    intro
    components
+   advantages
