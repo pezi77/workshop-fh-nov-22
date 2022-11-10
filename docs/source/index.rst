@@ -11,5 +11,4 @@ Contents
 .. toctree::
 
    intro
-   usage
-   api
+   components
