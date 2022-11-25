@@ -7,7 +7,7 @@ Write the Docs is global community of people who care about documentation.
 
 Note 2
 ------
-Getting Started
+**Getting Started**
 
 Image
 
