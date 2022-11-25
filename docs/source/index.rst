@@ -21,8 +21,6 @@ Contents
    georg
    anna
    anna
-   
-   
    laura
    snev
    cindy
