@@ -15,4 +15,6 @@ Contents
    avantages
    disadvantages
    petra
-   bauer
+   nina
+   larissa
+   georg
