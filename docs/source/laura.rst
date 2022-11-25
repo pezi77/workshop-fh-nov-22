@@ -33,4 +33,4 @@ Elizabeth Coatsworth
 
 Image
 -----
-.. image:: november
+.. image:: november.jpg
