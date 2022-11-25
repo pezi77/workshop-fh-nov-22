@@ -23,3 +23,4 @@ Contents
    anna
    laura
    snev
+   cindy
