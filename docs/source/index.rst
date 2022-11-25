@@ -15,4 +15,6 @@ Contents
    avantages
    disadvantages
    petra
-   laura
+   nina
+   larissa
+   georg
