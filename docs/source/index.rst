@@ -18,4 +18,3 @@ Contents
    nina
    larissa
    georg
-
