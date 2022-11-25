@@ -19,6 +19,4 @@ Contents
    larissa
    georg
    anna
-   bcindyb-patch-2
-
-
+   anna
