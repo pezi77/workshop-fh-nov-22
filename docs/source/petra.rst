@@ -15,7 +15,7 @@ Note
 Image
 -----
 
-.. image:: picture.png
+.. image:: picture.jpg
 
 
 Table
