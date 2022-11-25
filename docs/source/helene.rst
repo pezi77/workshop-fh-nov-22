@@ -6,7 +6,7 @@ This is the best heading
 
 
 +------------------------+------------+----------+----------+
-| Header row, column 1   | Header 2   | Header 3 | Header 4 |
+| Best Header row, column 1   | Best Header 2   | Best Header 3 | Best Header 4 |
 | (header rows optional) |            |          |          |
 +========================+============+==========+==========+
 | body row 1, column 1   | column 2   | column 3 | column 4 |
