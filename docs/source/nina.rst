@@ -1,4 +1,4 @@
-* This is a bulleted list.
+* This is a bulleted list. Bulleted lists are my jam.
 * It has two items, the second
   item uses two lines.
 
