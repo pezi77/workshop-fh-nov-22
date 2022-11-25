@@ -1,5 +1,5 @@
 *Das ist Larissas Text*
-**Das ist Larissas Text, fett geschrieben**
+**Das ist Larissas Text, fett geschrieben.**
 =====
 TITEL
 =====
